@@ -1,1 +1,130 @@
+<!DOCTYPE html>
+<html lang="{pageLanguage}">
+  <head>
+    <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">                      
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{websiteTitle} - {pageTitle}</title>
+        {websiteFavicon}
+        <meta name="generator" content="{generator}" />
+        <meta name="description" content="{metadataDescription}" />
+        {websiteAnalytic}
+        <meta name="keywords" content="{metadataKeywords}" />
+        <meta name="robot" content="index, follow" />
+        <meta property="og:title" content="{pageTitle}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:image" content="{WebsiteSocialPic}" />
+        <meta property="og:url" content="{websiteURL}" />
+        <meta property="og:description" content="{metadataDescription}" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:url" content="{websiteURL}" />
+        <meta name="twitter:title" content="{pageTitle}" />
+        <meta name="twitter:description" content="{metadataDescription}" />
+        <meta name="twitter:image" content="{WebsiteSocialPic}" />
+        <meta name="author" content="FermoLUG" />
+        <link type="text/plain" rel="author" href="http://www.linuxfm.org/humans.txt" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css" />
+        <style>
+      :root {--links: #0070CC;}
+      @font-face {
+        font-family: "Atkinson";
+        src:
+        url("fnt/Atkinson-Hyperlegible-Regular-102.ttf"),
+        url("fnt/Atkinson-Hyperlegible-Regular-102a.woff2"),
+        url("fnt/Atkinson-Hyperlegible-Regular-102.woff");
+      }
 
+      * {font-family: "Atkinson", sans-serif; text-align: justify;}
+      nav, footer{display: flex; justify-content: space-between; align-items: center; align-items: flex-start;}
+      footer ul{list-style-type: none; padding: 0.5em;  flex-grow: 1}
+      header nav *{font-weight: bold; min-height:3em; color: black; /*border: 1px solid red */}
+      nav details {display: inline-flex; width: 100%}
+      header nav a img {min-height: 3em}
+      .focus_el {display: flex; flex-direction:row; justify-content: space-between; border-radius: 1em; padding: .5rem; border-top: .3em solid #0070CC; border-bottom: .3em solid #0070CC; gap: 1em;} 
+      .inlineimg{display: inline; height: 1rem}
+        </style>
+      </head>
+      <body>
+        <header>
+      <nav>
+        {websiteNavbar}
+      </nav>
+    </header>
+    <nav>
+      <details>
+        <summary>MENU</summary>
+        {websiteMenu}
+      </details>
+    </nav>
+    <section>
+      <h1>{pageTitle}</h1>
+      <!--<aside><h6>Azioni (Condividi, Contribuisci)</h6><i>Data: {pagePublishedOn}</i> <a href="none" title="Modifica su Github"><img class="inlineimg" src="img/edit.svg">Contribuisci</a> <a href="whatsapp:whatsapp://send?text=https://fermolug.it/{pageLink}"><img src="img/whatsapp_bl.svg" class="inlineimg"> Condividi su WhatsApp</a> <a href="none"><img src="img/mastodon_bl.svg" class="inlineimg"> Condividi su Mastodon</a></aside>-->
+      {pageContent}
+    </section>
+    {WebsiteArticlesWidget}
+    <aside>
+      <details>
+        <summary>Info e Guide</summary>
+        <a href="https://biasco.ch/contenuti-aperti/">Adotta Linux!</a>
+        <a href="https://archive.org/details/AppuntiDiInformaticaLibera/20080000.a2/">Appunti Linux</a>
+        <!--<strike>B3 & Linux</strike>
+        <strike>Gimp Tutorials</strike>-->
+        <a href="https://www.howtoforge.com/">HowtoForge</a>
+        <a href="http://it.tldp.org/">Italian Docs</a>
+        <a href="http://erlug.linux.it/linuxdazero/">Linux Da Zero</a>
+        <a href="http://www.distrowatch.com/">Linux Distros</a>
+        <!--<strike>Linux Facile</strike>-->
+        <a href="https://www.kernel.org/">Linux Kernel</a>
+        <a href="http://www.econsultant.com/i-want-open-source-software/index.html">Lista Sw Open</a>
+        <a href="https://www.gnu.org/philosophy/free-sw.it.html">SoftwareLibero</a>
+        <a href="https://www.lffl.org/">Supporto lffl</a>
+        <!--<strike>Tour con Foto</strike>
+        <strike>Video Corsi</strike>
+        <strike>VignetteComiche</strike>-->
+        <a href="https://www.linuxrsp.ru/win-lin-soft/index-italian.html">Win «=» Linux</a>
+        <!--<strike>Win+OpenSource</strike>-->
+      </details>
+      <details>
+        <summary>Utilità</summary>
+        <a href=""></a>
+        <!--<strike>Applicaz.Turnkey</strike>-->
+        <a href="https://www.jdavide.it/">SW Open per Avvocati open</a>
+        <!--<strike>Backup Gmail!</strike>-->
+        <a href="https://www.liberliber.it/">Biblioteca Libera</a>
+        <a href="https://portforward.com/">Configura Web</a>
+        <a href="http://www.eu-energystar.org/it/it_008b.shtml">Consumo PC</a>
+        <a href="https://it.wikipedia.org/wiki/Pagina_principale">Enciclop. Libera</a>
+        <!--<strike>Fatture open</strike>-->
+        <a href="https://www.ilmeteo.it/triorario8k.php?citta=2743">Fermo – Meteo</a>
+        <!--<strike>Giochi Liberati</strike>-->
+        <!--<strike>Giochi Linux</strike>
+        <strike>Giochi LiveDVD</strike>-->
+        <a href="https://github.com/liflg">Giochi Loki+</a>
+        <!--<strike>Giochi Open</strike>
+        <strike>Guide Sbontolo</strike>-->
+        <a href="https://linuxsi.com/">Linux – Negozi</a>
+        <!--<strike>Linux 0-Day</strike>
+        <strike>Multicolr Search</strike>
+        <strike>Musica – Dance</strike>
+        <strike>Musica – Rock</strike>-->
+        <a href="http://www.anomolo.com/">Musica Anomolo</a>
+        <a href="https://www.jamendo.com/?language=it">Musica Jamendo</a>
+        <a href="http://magnatune.com/">MusicaMagnatune</a>
+        <a href="https://www.sitecopying.com/">PHP Clone Script</a>
+        <!--<strike>Sfondi Desktop</strike>--> 
+        <a href="https://imslp.org/wiki/Pagina_principale">Spartiti Liberi</a>
+      </details>
+      <details>
+        <summary>Edicola</summary>
+        <!--<strike>Linux&C</strike>-->
+        <a href="http://www.linuxfocus.org/Italiano/">LinuxFocusMagaz</a>
+        <a href="http://www.linuxjournal.it/linux">LinuxJournal</a>
+        <a href="http://www.linux-magazine.it/">LinuxMagazine</a>
+        <a href="http://www.linuxpro.it/">LinuxPro</a>
+      </details>
+    </aside>
+    <footer>
+      {WebsiteFooter}
+    </footer>
+  </body>
+</html>
