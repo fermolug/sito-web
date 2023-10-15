@@ -1,0 +1,40 @@
+/* TEAM */
+	Author: Paolo Silenzi
+	Contact: indirizzo [at] test.test
+	Twitter: @nickname
+	Mastodon: @user@istanza
+	Location: Fermo, Marche, Italy
+
+	WebDesign, Graphics, Author: Federico Massi
+	Contact: info@federicomassi.it
+	Website: federicomassi.it
+	Mastodon: @federicoMassi@mastodon.uno
+	Location: Fermo, Marche, Italy
+
+	Autore: Carlos Mañas
+	Twitter: @oneeyedman
+	From:Madrid, Spain
+
+	Standard Man: Abel Cabans
+	Twitter: @abelcabans
+	From:Barcelona, Catalonia, Spain
+
+	Web designer: Abel Sutilo
+	Twitter: @abelsutilo
+	From:Sevilla, Andalucia, Spain
+
+/* THANKS */
+
+	Role: Nome Cognome
+	Twitter: @nickname
+	Website: test.test
+	Mastodon: @name@instance
+	Location: Fermo, Marche, Italy
+
+
+/* SITE */
+	Last update:2023/10/15
+	Language: Italian
+	Technologies: HTML5, CSS3, ECMASCRIPT, PHP8
+	Tools: GIMP, Inkscape, KWrite
+	Services: GitHub
