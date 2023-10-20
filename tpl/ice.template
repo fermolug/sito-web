@@ -64,16 +64,10 @@
     {WebsiteArticlesWidget}
     <aside>
       <details>
-        <summary>Linuxsfera</summary>
-        <a href="https://framasoft.org/it/">Framasoft</a>
-        <a href="https://linux.it/">Italian Linux Society</a>
-      </details>
-      <details>
         <summary>Info e Guide</summary>
-         <a href="https://biasco.ch/contenuti-aperti/">Adotta Linux!</a>
+        <a href="https://biasco.ch/contenuti-aperti/">Adotta Linux!</a>
         <a href="https://archive.org/details/AppuntiDiInformaticaLibera/20080000.a2/">Appunti Linux</a>
-        <!--<strike>B3 & Linux</strike>
-        <strike>Gimp Tutorials</strike>-->
+        <a href="https://docs.gimp.org/2.10/it/">Manuale GIMP</a> 
         <a href="https://www.howtoforge.com/">HowtoForge</a>
         <a href="http://it.tldp.org/">Italian Docs</a>
         <a href="http://erlug.linux.it/linuxdazero/">Linux Da Zero</a>
@@ -83,45 +77,38 @@
         <a href="http://www.econsultant.com/i-want-open-source-software/index.html">Lista Sw Open</a>
         <a href="https://www.gnu.org/philosophy/free-sw.it.html">SoftwareLibero</a>
         <a href="https://www.lffl.org/">Supporto lffl</a>
-        <!--<strike>Tour con Foto</strike>
-        <strike>Video Corsi</strike>
-        <strike>VignetteComiche</strike>-->
         <a href="https://www.linuxrsp.ru/win-lin-soft/index-italian.html">Win «=» Linux</a>
-        <!--<strike>Win+OpenSource</strike>-->
       </details>
       <details>
         <summary>Utilità</summary>
-        <a href=""></a>
-        <!--<strike>Applicaz.Turnkey</strike>-->
+        <h2>⚖️</h2>
         <a href="https://www.jdavide.it/">SW Open per Avvocati open</a>
-        <!--<strike>Backup Gmail!</strike>-->
+        <hr>
+        <h5>📚</h5>
         <a href="https://www.liberliber.it/">Biblioteca Libera</a>
-        <a href="https://portforward.com/">Configura Web</a>
-        <a href="http://www.eu-energystar.org/it/it_008b.shtml">Consumo PC</a>
         <a href="https://it.wikipedia.org/wiki/Pagina_principale">Enciclop. Libera</a>
-        <!--<strike>Fatture open</strike>-->
-        <a href="https://www.ilmeteo.it/triorario8k.php?citta=2743">Fermo – Meteo</a>
-        <!--<strike>Giochi Liberati</strike>-->
-        <!--<strike>Giochi Linux</strike>
-        <strike>Giochi LiveDVD</strike>-->
+        <hr>
+        <h5>🌱</h5>
+        <a href="http://www.eu-energystar.org/it/it_008b.shtml">Consumo PC</a>
+        <hr>
+        <h5>🔧</h5>
+        <a href="https://portforward.com/">Configura Web</a>
+        <a href="https://www.sitecopying.com/">PHP Clone Script</a>
+        <hr>
+        <h5>🕹️</h5>
         <a href="https://github.com/liflg">Giochi Loki+</a>
-        <!--<strike>Giochi Open</strike>
-        <strike>Guide Sbontolo</strike>-->
+        <hr>
+        <h5>🐧</h5>
         <a href="https://linuxsi.com/">Linux – Negozi</a>
-        <!--<strike>Linux 0-Day</strike>
-        <strike>Multicolr Search</strike>
-        <strike>Musica – Dance</strike>
-        <strike>Musica – Rock</strike>-->
+        <hr>
+        <h5>🎶</h5>
         <a href="http://www.anomolo.com/">Musica Anomolo</a>
         <a href="https://www.jamendo.com/?language=it">Musica Jamendo</a>
         <a href="http://magnatune.com/">MusicaMagnatune</a>
-        <a href="https://www.sitecopying.com/">PHP Clone Script</a>
-        <!--<strike>Sfondi Desktop</strike>--> 
         <a href="https://imslp.org/wiki/Pagina_principale">Spartiti Liberi</a>
       </details>
       <details>
         <summary>Edicola</summary>
-        <!--<strike>Linux&C</strike>-->
         <a href="http://www.linuxfocus.org/Italiano/">LinuxFocusMagaz</a>
         <a href="http://www.linuxjournal.it/linux">LinuxJournal</a>
         <a href="http://www.linux-magazine.it/">LinuxMagazine</a>
