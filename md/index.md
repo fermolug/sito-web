@@ -1,6 +1,6 @@
 ---
 title: "Home Page"
-date: "2023-09-15"
+date: "2023-09-16"
 lang: "it-IT"
 description: "Una semplice home page"
 ---
