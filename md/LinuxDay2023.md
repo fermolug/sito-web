@@ -1,6 +1,6 @@
 ---
 title: "Linux Day 2023"
-date: "2023-09-01"
+date: "2023-10-20"
 lang: "it-IT"
 description: "Il Linux Day 2023 a Fermo, organizzato in collaborazione con l'istituto ITT Montani di Fermo"
 ---
