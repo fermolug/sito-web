@@ -22,8 +22,8 @@ description: "Il Linux Day 2023 a Fermo, organizzato in collaborazione con l'ist
 **"Binary Exploitation"**
 *Alla scoperta delle vulnerabilità di un programma.*
 
-"Gestione delle macchine virtuali con libvirt"
-Un'introduzione pratica e operativa
+**"Gestione delle macchine virtuali con libvirt"**
+*Un'introduzione pratica e operativa*
 
 ## E inoltre:
 - L'Arte di fare una Patch
@@ -47,11 +47,11 @@ Un'introduzione pratica e operativa
 Ritorna a grande richiesta la sfida online!
 
 ## DOVE E QUANDO
-**Polo 3 Informatica dell'ITTMontani** in Via Joyce Lussu, 63900 Fermo FM.
+### **Polo 3 Informatica dell'ITTMontani** in Via Joyce Lussu, 63900 Fermo FM.
 
 ### Venerdì 27 Ottobre 2023
 - **Mattina**: Laboratori e Talk per gli studenti
 - **Pomeriggio**: Laboratori e Talk aperti a tutti
 
 ### Sabato 28 Ottobre 2023
-**Cena Sociale Aperta del FermoLUG**, prenota via Telegram!
+- **Cena Sociale Aperta del FermoLUG**, prenota via Telegram!
