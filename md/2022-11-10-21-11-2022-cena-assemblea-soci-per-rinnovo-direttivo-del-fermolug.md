@@ -3,14 +3,8 @@ title: "[21/11/2022] CENA/ASSEMBLEA SOCI PER RINNOVO DIRETTIVO DEL FERMOLUG"
 description: "Cena sociale e Assemblea dei soci 2022"
 date: "2022-11-10"
 lang: "it-IT"
-categories: 
-  - "news"
-tags: 
-  - "eventi"
-  - "linux"
-  - "news"
-  - "open-source"
-  - "software-libero"
+categories: news
+keywords: eventi, linux, news, open-source, software-libero
 ---
 
 [![](images/fermolug.jpg)](https://www.linuxfm.org/home/wp-content/uploads/2009/02/fermolug.jpg)

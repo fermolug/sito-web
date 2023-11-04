@@ -3,6 +3,7 @@ title: "Linux Day 2023"
 date: "2023-10-20"
 lang: "it-IT"
 description: "Il Linux Day 2023 a Fermo, organizzato in collaborazione con l'istituto ITT Montani di Fermo"
+keywords: FermoLUG, Linux Day 2023, 2023, Linux Day, Open Source, eventi, ITT Montani
 ---
 *Qui le info sull'organizzazione del Linux Day 2023 a Fermo, in collaborazione con l'istituto ITT Montani di Fermo.*
 
@@ -32,6 +33,8 @@ description: "Il Linux Day 2023 a Fermo, organizzato in collaborazione con l'ist
 - IA²: l'impatto ambientale dell'IA
 - Laboratori di GIMP, Godot Engine e altre tecnologie Open Source
 - Spazio approfondimento su Raspberry Pi
+- Master of RegEx
+- Testato è meglio
 
 ## Relatori
 - Stefania Delprete (AI Safety Advocate)

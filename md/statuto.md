@@ -3,6 +3,7 @@ title: "Statuto"
 date: "2009-02-02"
 lang: "it-IT"
 description: "Lo Statuto del FermoLUG"
+keywords: statuto, FermoLUG
 ---
 
 ## Fermo Linux Users Group - Marche - Italy (Statuto)

@@ -3,6 +3,7 @@ title: "Progetti"
 date: "2023-09-01"
 lang: "it-IT"
 description: "I progetti portati avanti dal FermoLUG"
+keywords: progetti, FermoLUG, attività
 ---
 
 FermoLUG promuove molti progetti tra i quali....
