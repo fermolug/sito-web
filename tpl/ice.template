@@ -65,54 +65,55 @@
     <aside>
       <details>
         <summary>Info e Guide</summary>
-        <a href="https://biasco.ch/contenuti-aperti/">Adotta Linux!</a>
-        <a href="https://archive.org/details/AppuntiDiInformaticaLibera/20080000.a2/">Appunti Linux</a>
-        <a href="https://docs.gimp.org/2.10/it/">Manuale GIMP</a> 
-        <a href="https://www.howtoforge.com/">HowtoForge</a>
-        <a href="http://it.tldp.org/">Italian Docs</a>
-        <a href="http://erlug.linux.it/linuxdazero/">Linux Da Zero</a>
-        <a href="http://www.distrowatch.com/">Linux Distros</a>
-        <!--<strike>Linux Facile</strike>-->
-        <a href="https://www.kernel.org/">Linux Kernel</a>
-        <a href="http://www.econsultant.com/i-want-open-source-software/index.html">Lista Sw Open</a>
-        <a href="https://www.gnu.org/philosophy/free-sw.it.html">SoftwareLibero</a>
-        <a href="https://www.lffl.org/">Supporto lffl</a>
-        <a href="https://www.linuxrsp.ru/win-lin-soft/index-italian.html">Win «=» Linux</a>
+        <a href="https://biasco.ch/contenuti-aperti/" target="_blank">Adotta Linux!</a>
+        <a href="https://archive.org/details/AppuntiDiInformaticaLibera/20080000.a2/" target="_blank">Appunti Linux</a>
+        <a href="https://docs.gimp.org/2.10/it/" target="_blank">Manuale GIMP</a> 
+        <a href="https://www.howtoforge.com/" target="_blank">HowtoForge</a>
+        <a href="http://it.tldp.org/" target="_blank">Italian Docs</a>
+        <a href="http://erlug.linux.it/linuxdazero/" target="_blank">Linux Da Zero</a>
+        <a href="http://www.distrowatch.com/" target="_blank">Linux Distros</a>
+        <a href="https://www.kernel.org/" target="_blank">Linux Kernel</a>
+        <a href="http://www.econsultant.com/i-want-open-source-software/index.html" target="_blank">Lista Sw Open</a>
+        <a href="https://www.gnu.org/philosophy/free-sw.it.html" target="_blank">SoftwareLibero</a>
+        <a href="https://www.lffl.org/" target="_blank">Supporto lffl</a>
+        <a href="https://www.linuxrsp.ru/win-lin-soft/index-italian.html" target="_blank">Win «=» Linux</a>
       </details>
       <details>
         <summary>Utilità</summary>
-        <h2>⚖️</h2>
-        <a href="https://www.jdavide.it/">SW Open per Avvocati open</a>
+        <h5>⚖️</h5>
+        <a href="https://www.jdavide.it/" target="_blank">SW Open per Avvocati open</a>
         <hr>
         <h5>📚</h5>
-        <a href="https://www.liberliber.it/">Biblioteca Libera</a>
-        <a href="https://it.wikipedia.org/wiki/Pagina_principale">Enciclop. Libera</a>
+        <a href="https://www.liberliber.it/" target="_blank">Biblioteca Libera</a>
+        <a href="https://it.wikipedia.org/wiki/Pagina_principale" target="_blank">Enciclopedia Libera</a>
         <hr>
         <h5>🌱</h5>
-        <a href="http://www.eu-energystar.org/it/it_008b.shtml">Consumo PC</a>
+        <a href="http://www.eu-energystar.org/it/it_008b.shtml" target="_blank">Consumo PC</a>
         <hr>
         <h5>🔧</h5>
-        <a href="https://portforward.com/">Configura Web</a>
-        <a href="https://www.sitecopying.com/">PHP Clone Script</a>
+        <a href="https://portforward.com/" target="_blank">Configura Web</a>
+        <a href="https://www.sitecopying.com/" target="_blank">PHP Clone Script</a>
         <hr>
         <h5>🕹️</h5>
-        <a href="https://github.com/liflg">Giochi Loki+</a>
+        <a href="https://github.com/liflg" target="_blank">Giochi Loki+</a>
         <hr>
-        <h5>🐧</h5>
-        <a href="https://linuxsi.com/">Linux – Negozi</a>
+        <h5>🐧🏪</h5>
+        <a href="https://linuxsi.com/" target="_blank">Linux – Negozi</a>
         <hr>
         <h5>🎶</h5>
-        <a href="http://www.anomolo.com/">Musica Anomolo</a>
-        <a href="https://www.jamendo.com/?language=it">Musica Jamendo</a>
-        <a href="http://magnatune.com/">MusicaMagnatune</a>
-        <a href="https://imslp.org/wiki/Pagina_principale">Spartiti Liberi</a>
+        <a href="http://www.anomolo.com/" target="_blank">Musica Anomolo</a>
+        <a href="https://www.jamendo.com/?language=it" target="_blank">Musica Jamendo</a>
+        <a href="http://magnatune.com/" target="_blank">MusicaMagnatune</a>
+        <a href="https://imslp.org/wiki/Pagina_principale" target="_blank">Spartiti Liberi</a>
       </details>
       <details>
         <summary>Edicola</summary>
-        <a href="http://www.linuxfocus.org/Italiano/">LinuxFocusMagaz</a>
-        <a href="http://www.linuxjournal.it/linux">LinuxJournal</a>
-        <a href="http://www.linux-magazine.it/">LinuxMagazine</a>
-        <a href="http://www.linuxpro.it/">LinuxPro</a>
+        <a href="http://www.linuxfocus.org/Italiano/" target="_blank">LinuxFocusMagaz</a>
+        <a href="http://www.linuxjournal.it/linux" target="_blank">LinuxJournal</a>
+        <a href="http://www.linux-magazine.it/" target="_blank">LinuxMagazine</a>
+        <a href="http://www.linuxpro.it/" target="_blank">LinuxPro</a>
+
+        <a href="https://vivere.me/eAla" target="_blank">LD2023 su VivereFermo</a>
       </details>
     </aside>
     <footer>
