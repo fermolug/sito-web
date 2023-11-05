@@ -3,6 +3,7 @@ title: "Direttivo"
 date: "2023-09-01"
 lang: "it-IT"
 description: "Organigramma e consiglio direttivo del FermoLUG"
+keywords: FermoLUG, Open Source, Direttivo, Cariche
 ---
 
 ## Direttivo eletto (21 Novembre 2022):

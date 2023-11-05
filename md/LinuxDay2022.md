@@ -1,10 +1,10 @@
 ---
 title: "Linux Day 2022"
 date: "2022-10-02"
-categories: 
-  - "news"
+categories: "news"
 lang: "it-IT"
 description: "Il Linux Day 2022 a Fermo, organizzato in collaborazione con l'istituto ITT Montani di Fermo"
+keywords: FermoLUG, Linux Day 2023, 2023, Linux Day, Open Source, eventi, ITT Montani
 ---
 In collaborazione con l'ITI Montani di Fermo, il FermoLUG organizza anche quest'anno il Linux Day 2022 @Fermo.
 

@@ -3,6 +3,7 @@ title: "Iscriviti!"
 date: "2023-09-01"
 lang: "it-IT"
 description: "Come iscriversi al FermoLUG"
+keywords: FermoLUG, Open Source, Iscrizione
 ---
 
 Puoi iscriverti come da statuto, in breve inoltrando richiesta al Direttivo e versando la quota annuale di 10€.

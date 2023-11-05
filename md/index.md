@@ -3,6 +3,7 @@ title: "Home Page"
 date: "2023-09-16"
 lang: "it-IT"
 description: "Una semplice home page"
+keywords: FermoLUG, Linux Day 2023, 2023, Linux Day, Open Source, FLOSS, FOSS, ITT Montani
 ---
 > Le chiacchiere costano poco.
 > Mostrami il codice.
