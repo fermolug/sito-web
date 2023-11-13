@@ -48,6 +48,12 @@
 			"changefreq": "never"
 		},
 		{
+			"name": "Trashware–Donazione_Computer_al_Santuario_della_Madonna_della_Stella_PG",
+			"type": "event",
+			"date": "2010-01-11",
+			"changefreq": "never"
+		},
+		{
 			"name": "nuovo-sito",
 			"type": "article",
 			"date": "2023-10-16",
@@ -57,12 +63,14 @@
 			"name": "progetti"
 		},
 		{
+			"name": "recupero_pc"
+		},
+		{
 			"name": "contatti"
 		},
 		{
 			"name": "direttivo",
 			"changefreq": "yearly"
-
 		},
 		{
 			"name": "statuto"
