@@ -1,5 +1,5 @@
 ---
-title: "Trashware – Donazione Computer al Santuario della Madonna della Stella (PG)"
+title: "Donazione Computer al Santuario della Madonna della Stella (PG)"
 date: "2010-01-11"
 lang: "it-IT"
 description: "Donazione Computer al Santuario della Madonna della Stella (PG)"
