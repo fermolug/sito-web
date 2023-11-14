@@ -33,15 +33,17 @@ In questo modo si risolvono molti problemi: le aziende non devono preoccuparsi d
 
 <details>
     <summary>VORREI RICEVERE DEI PC</summary>
-    <form method="post">
+    <form method="post" action="services.php">
+    <input type="hidden" name="service" value="mailer">
+    <input type="hidden" name="mail_type" value="recupero_pc">
     <label for="name">Riferimento</label>
-    <input type="text" id="name" placeholder="Nome e Cognome" required>
+    <input type="text" name="name" placeholder="Nome e Cognome" required>
     <label for="name">e-Mail</label>
-    <input type="email" id="email" placeholder="nome@sito.org" required autocomplete="email">
+    <input type="email" name="email" placeholder="nome@sito.org" required autocomplete="email">
     <label for="name">Telefono</label>
-    <input type="text" id="telefono" placeholder="+39 3xx xxx..." autocomplete="tel" pattern="/\+\d{2}\d*/">
+    <input type="text" name="telefono" placeholder="+39 3xx xxx..." autocomplete="tel">
     <label for="description">Descrizione Hardware necessario</label>
-    <textarea id="description" placeholder="Che tipo/modello/caratteristiche di PC o altro hardware mi servono" required></textarea>
+    <textarea name="description" placeholder="Che tipo/modello/caratteristiche di PC o altro hardware mi servono" required></textarea>
     <input type="submit" value="Invia">
     <small>L'invio di queste informazioni viene fatto nel rispetto del Regolamento (UE) 2016/679 (a.k.a. GDPR).<br>Vedi <a href="https://www.linuxfm.org/privacy.html">privacy</a> per maggiori dettagli.</small>
     </form>
